@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480" role="img" aria-labelledby="title desc">
+  <title id="title">Attestatsiya Level UP - 900+ testlar</title>
+  <desc id="desc">Attestatsiya uchun 900 dan ortiq testlar toplami muqovasi</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#211d4d"/>
+      <stop offset="1" stop-color="#694eff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffbc56"/>
+      <stop offset="1" stop-color="#ff668b"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="318" cy="62" r="96" fill="#fff" opacity=".07"/>
+  <circle cx="30" cy="420" r="118" fill="#7ce5cf" opacity=".12"/>
+  <path d="M0 322 360 214v266H0z" fill="#171638" opacity=".48"/>
+  <rect x="30" y="32" width="146" height="34" rx="17" fill="#7ce5cf"/>
+  <text x="103" y="55" fill="#171638" font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">ATTESTATSIYA</text>
+  <text x="30" y="143" fill="#fff" font-family="Arial,sans-serif" font-size="48" font-weight="800" letter-spacing="-2">LEVEL</text>
+  <text x="30" y="202" fill="#ffbc56" font-family="Arial,sans-serif" font-size="64" font-weight="900" letter-spacing="-3">UP</text>
+  <rect x="28" y="239" width="245" height="94" rx="18" fill="url(#accent)"/>
+  <text x="48" y="300" fill="#211d4d" font-family="Arial,sans-serif" font-size="54" font-weight="900">900+</text>
+  <text x="32" y="371" fill="#fff" font-family="Arial,sans-serif" font-size="23" font-weight="700">TESTLAR TO'PLAMI</text>
+  <path d="m283 362 10 10 22-25" fill="none" stroke="#7ce5cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text x="32" y="440" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="600" opacity=".8" letter-spacing="2">DIGITAL USTOZ</text>
+</svg>
